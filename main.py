@@ -1,2 +1,2 @@
-print("Hello,learning git for MLOPS.....")
-print("I am working on the new version")
+print("I am workin on new code")
+print("Newer Version")
