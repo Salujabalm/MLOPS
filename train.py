@@ -1,0 +1,1 @@
+Print("I will build simple Log model here")
